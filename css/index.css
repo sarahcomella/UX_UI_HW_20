@@ -90,9 +90,11 @@ h2 {
 
 .footer {
     background-color: black;
-    height: 50px;
 }
 
 .footer .nav-link {
     color: white;
+    font-size: smaller;
+    vertical-align: middle;
+    padding: 5%;
 }
